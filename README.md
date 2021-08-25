@@ -13,5 +13,5 @@ Projeto edição 01 maratona Discover da @rocketseat
 ## Como ver o resultado
  * Basta clicar em código, clonar o repositório para sua maquína
  ou pode baixar o arquivo zip, extrair na sua maquína e abrir o index.html
- * Pode acessar também jfilhoribeiro-pages.netlify.app para conferir e testar 
+ * Pode acessar também <a href"jfilhoribeiro-pages.netlify.app" target="_blank">jfilhoribeiro-pages</a> para conferir e testar 
  esse projeto incrivel disponibilizado pela rocketseat
